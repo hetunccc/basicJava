@@ -21,7 +21,18 @@ public class ArithmeticoperatorDemo {
 
         //%
         System.out.println(10%3);
-        //byte--short--int-^long--float--double
-        //
+        //byte--short--int-long--float--double　　　(btye short char  int に自動転換)
+        //強制転換  範囲大ーーー＞範囲小さ
+        double a = 12.3;
+        int b =(int)a;
+        System.out.println("123" + 123 );
+        System.out.println(1 + 99 + "12123");
+
+        int x = 10;
+        int y = x++; //先にｘの値を使って、ｙに値を挙げる　
+        int z = ++x;
+        System.out.println(x);//12
+        System.out.println(y);//10
+        System.out.println(z);//12
     }
 }
