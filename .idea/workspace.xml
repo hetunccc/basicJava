@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81551b70-c1b3-4908-b3a0-c33a2eb9624e" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/ArithmeticoperatorDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/OrderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/LoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/LoopDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/LoopDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/OrderDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/ArithmeticoperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/ArithmeticoperatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/basic-code/com/itheima/basicdemo1/ArithmeticoperatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/basic-code/com/itheima/basicdemo1/ArithmeticoperatorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/OrderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/basicdemo1/OrderDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +52,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ArithmeticoperatorDemo">
-    <configuration name="ArithmeticoperatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.basicdemo1.ArithmeticoperatorDemo" />
+  <component name="RunManager" selected="应用程序.LoopDemo3">
+    <configuration name="LoopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.basicdemo1.LoopDemo" />
       <module name="basic-code" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +66,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArithmeticoperatorDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.basicdemo1.ArithmeticoperatorDemo2" />
+    <configuration name="LoopDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.basicdemo1.LoopDemo2" />
+      <module name="basic-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.basicdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.basicdemo1.LoopDemo3" />
       <module name="basic-code" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +105,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrderDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.basicdemo1.OrderDemo2" />
+      <module name="basic-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.basicdemo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.LoopDemo3" />
+        <item itemvalue="应用程序.LoopDemo2" />
+        <item itemvalue="应用程序.LoopDemo" />
+        <item itemvalue="应用程序.OrderDemo2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,6 +138,7 @@
       <workItem from="1675465536549" duration="292000" />
       <workItem from="1675465848359" duration="2011000" />
       <workItem from="1675502261992" duration="5806000" />
+      <workItem from="1675555052696" duration="5070000" />
     </task>
     <servers />
   </component>

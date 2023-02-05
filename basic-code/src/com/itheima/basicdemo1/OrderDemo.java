@@ -21,6 +21,13 @@ public class OrderDemo {
         }else {
             System.out.println("Eat KFC");
         }
-
+        if (money >= 1000){
+            System.out.println("Eat youtube resturant");
+        }else if (money < 1000) {
+            System.out.println("Eat KFC");
+        }
+        else {
+            System.out.println("eat cupnuddles" );
+        }
     }
 }
