@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81551b70-c1b3-4908-b3a0-c33a2eb9624e" name="变更" comment="变更" />
+    <list default="true" id="81551b70-c1b3-4908-b3a0-c33a2eb9624e" name="变更" comment="变更">
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/extenddemo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/extenddemo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-code/src/com/itheima/extenddemo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,6 +147,8 @@
       <workItem from="1675686816957" duration="3394000" />
       <workItem from="1675771428664" duration="14841000" />
       <workItem from="1676074331841" duration="53000" />
+      <workItem from="1676290075619" duration="1199000" />
+      <workItem from="1676291310514" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="变更">
       <created>1675689608247</created>
